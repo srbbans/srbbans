@@ -3,8 +3,8 @@
 <h2> Hey there! This is Sourabh. 
 <h3> 👨🏻‍💻 About Me </h3>
 
-I've 7yrs of experience in Android Application Development with Core Java and Kotlin.
-Worked in React-Native.
+I've 8+yrs of experience in Android Application Development with Core Java and Kotlin.
+And hands on with React-Native.
 
 - 🔭 &nbsp; I’m currently learning Flutter
 - 🤔 &nbsp; I love to explore new technologies and developing software solutions and quick hacks.
