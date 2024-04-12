@@ -4,7 +4,7 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 I've 8+yrs of experience in Android Application Development with Core Java and Kotlin.
-And hands on with React-Native.
+1 year in cross platform application development with Flutter.
 
 - 🔭 &nbsp; I’m currently learning Flutter
 - 🤔 &nbsp; I love to explore new technologies and developing software solutions and quick hacks.
