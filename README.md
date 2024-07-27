@@ -3,7 +3,7 @@
 <h2> Hey there! This is Sourabh. 
 <h3> 👨🏻‍💻 About Me </h3>
 
-I've 8+yrs of experience in Android Application Development with Core Java and Kotlin.
+I've 9yrs of experience in Android Application Development with Core Java and Kotlin.
 1 year in cross platform application development with Flutter.
 
 - 🔭 &nbsp; I’m currently learning Flutter
