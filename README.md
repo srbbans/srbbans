@@ -27,16 +27,10 @@ Additionally, **6 months of experience in cross-platform development using Flutt
 
 Passionate about **building highly secure, scalable, and efficient Android applications** while staying ahead of evolving cybersecurity threats. Seeking opportunities to apply deep expertise in **Android security, secure coding, and advanced threat protection** to develop next-generation mobile solutions.  
 
+`  I love coding :)  `
 
-> I love coding, and i enjoy to do that.
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=srbbans&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Sourabh's Github Stats">
-
-</br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srbbans&layout=compact&text_color=daf7dc&bg_color=151515)]
-
-<h1 align = 'Center'>baby python 🐍 eating my contribution for other languages</h1>
+<h3 align = 'Center'>baby python 🐍 eating my contribution for other languages</h3>
 <p align="center">
   <img src="https://github.com/srbbans/srbbans/blob/master/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
