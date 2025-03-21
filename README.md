@@ -29,6 +29,9 @@ Passionate about **building highly secure, scalable, and efficient Android appli
 
 `  I love coding :)  `
 
+Would you like to read my blogs ? there you go 👇
+
+https://srbbans.github.io/blogs/
 
 <h3 align = 'Center'>baby python 🐍 eating my contribution for other languages</h3>
 <p align="center">
