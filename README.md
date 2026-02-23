@@ -1,9 +1,9 @@
 
         
-<h2> Hey there! This is Sourabh. 
+<h2> Hello world! This is Sourabh. 
 <h3> 👨🏻‍💻 About Me </h3>
 
-### **Senior Android Developer | 9+ Years Experience | App Security Specialist | Java & Kotlin**  
+### **Senior Android Developer | 10+ Years Experience | App Security Specialist | Java & Kotlin**  
 
 Security-focused **Android Application Developer** with **10+ years of experience** in designing, developing, and securing **high-performance native Android applications** using **Java and Kotlin**. Deep expertise in **mobile application security**, specializing in **preventing reverse engineering, tampering, and unauthorized access** through **SSL Pinning, Root/Emulator Detection, Runtime Application Self-Protection (RASP), Anti-Debugging, Frida detection, and Obfuscation Techniques**.  
 
