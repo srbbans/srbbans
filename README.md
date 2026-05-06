@@ -14,9 +14,10 @@
 ## 🧠 Who Am I?
 
 ```diff
-+ Senior Android Developer (10+ Years)
++ Senior Android Application Developer
 + Mobile App Security Specialist
 + Automation & System Builder
++ Content Creator
 ````
 
 I design **Android apps that don’t just work — they resist attacks**.
